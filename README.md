@@ -8,3 +8,5 @@ I'm Yue Pan, a research assistant at [UCL's SOLAR group](https://solar.cs.ucl.ac
 * 🤝 Always open to collaboration or discussion — feel free to reach out!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcloud347\&layout=compact)
+![Yue Pan's Code Stats](https://github-readme-stats.vercel.app/api?username=dcloud347&show_icons=true&count_private=true&include_all_commits=true&hide=prs)
+
