@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi, Welcome! 👋
 
-I'm Yue Pan, a research assistant at [UCL's SOLAR group](https://solar.cs.ucl.ac.uk/) supervied by Dr.He Ye. My research focuses on **Automatic Program Repair (APR)** and **Code Agent** — combining program analysis, machine learning, and large language models to make software engineering faster and more reliable.
+I'm Yue Pan, a research assistant at [UCL's SOLAR group](https://solar.cs.ucl.ac.uk/) supervied by [Prof.He Ye](https://heye.me/). My research focuses on **Automatic Program Repair (APR)** and **Code Agent** — combining program analysis, machine learning, and large language models to make software engineering faster and more reliable.
 
 * 🔬 Research interests: APR, Code Agent, language models for code, intelligent developer tools
 * 🌐 Website: [dcloud347.github.io/about](https://dcloud347.github.io/about/)
